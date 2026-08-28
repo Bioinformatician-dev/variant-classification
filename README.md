@@ -31,7 +31,7 @@ We explore a variety of statistical and ML techniques to understand patterns in 
   - `AF_ESP`, `AF_EXAC`, `AF_TGP`: Population allele frequencies
   - `SIFT`, `PolyPhen`: In-silico predictors
   - `MC`: Mutation consequences
-  - `CLASS`: Target (0 = Benign, 1 = Pathogenic)
+  - `CLASS`: Target (0 = Benign, 1 = Pathogenic).
 
 
 
