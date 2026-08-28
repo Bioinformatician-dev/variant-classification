@@ -18,7 +18,7 @@ We explore a variety of statistical and ML techniques to understand patterns in 
   - K-Nearest Neighbors (KNN)
   - MLP Neural Network
   - Gaussian Naive Bayes
-- 📈 Compared model performance using accuracy, precision, recall, F1-score, and confusion matrices
+- 📈 Compared model performance using accuracy, precision, recall, F1-score, and confusion matrices.
 
 
 
