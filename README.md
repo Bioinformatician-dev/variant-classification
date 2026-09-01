@@ -1,7 +1,6 @@
 # 🧬 ClinVar Variant Classification Using Machine Learning
 
-This project tackles the challenge of classifying **clinically conflicting genetic variants** (Benign vs Pathogenic) using supervised **machine learning models** on annotated ClinVar data.
-We explore a variety of statistical and ML techniques to understand patterns in mutation consequences, population allele frequencies, and prediction scores (SIFT, PolyPhen, CADD), and use them to build predictive models.
+This project tackles the challenge of classifying **clinically conflicting genetic variants** (Benign vs Pathogenic) using supervised **machine learning models** on annotated ClinVar data.We explore a variety of statistical and ML techniques to understand patterns in mutation consequences, population allele frequencies, and prediction scores (SIFT, PolyPhen, CADD), and use them to build predictive models.
 
 
 
