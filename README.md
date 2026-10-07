@@ -16,7 +16,7 @@ This project tackles the challenge of classifying **clinically conflicting genet
   - K-Nearest Neighbors (KNN)
   - MLP Neural Network
   - Gaussian Naive Bayes
-- 📈 Compared model performance using accuracy, precision, recall, F1-score, and confusion matrices
+- 📈 Compared model performance using accuracy, precision, recall, F1-score, and confusion matrices.
 
 
 
